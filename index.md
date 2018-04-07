@@ -4,4 +4,4 @@
 </head>
 <body>
   <img src="书.jpg"/> 
-  <img src="冯雨昕"/>
+  <img src="冯雨昕.jpg"/>
