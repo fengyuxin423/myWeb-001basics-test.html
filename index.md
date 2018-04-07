@@ -6,4 +6,6 @@
  background-image:url("书");
  background-size:100% 100%;
  height:100%;
+ </body>
+
   <img src="书.jpg"/>
