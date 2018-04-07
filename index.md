@@ -5,3 +5,5 @@
 <body>
   <img src="书.jpg"/> 
   <img src="冯雨昕.jpg"/>
+  <img src="我这边的显示.jpg"/>
+  <img src="她那边的显示.jpg"/>
