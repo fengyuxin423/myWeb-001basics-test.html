@@ -3,5 +3,4 @@
 这是一个以你名字为域名的网站  以后你可以登录在这个网站上制作自己的网页
 </head>
 <body>
- <background-image:url("书.jpg"/>
-  <img src="书.jpg"/>
+  <img src="书.jpg"/> <img src="二维码.png"/>
