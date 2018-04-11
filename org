@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>祝你生日快乐  冯雨昕</h1>
+<p>这个是以你名字给命名的域名</p>
+<P>虽然好像也没什么用</P>
+
+</body>
+</html>
