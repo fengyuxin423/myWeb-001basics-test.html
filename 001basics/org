@@ -3,11 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style type="text/css">
+    page {
+        font-size: 60px;
+    }
+        #ci{
+            background-color: red;
+        }
+        #cheng {
+            background-color: lightgoldenrodyellow;
+        }
+        #huang{
+            background-color: yellow;
+        }
+        #lv {
+            background-color: green;
+        }
+        #qin {
+            background-color: aqua;
+        }
+        #lan {
+            background-color: blue;
+        }
+        #zi {
+            background-color: deeppink;
+        }
+    </style>
 </head>
 <body>
-<img src="书.jpg"/>
-<h1>祝你生日快乐  冯雨昕</h1>
-<p>这个是以你名字给命名的域名</p>
-<P>虽然好像也没什么用</P>
+<page>ci</page>
+<page>cheng</page>
+<page>huang</page>
+<page>lv</page>
+<page>qin</page>
+<page>lan</page>
+<page>zi</page>
 </body>
 </html>
