@@ -9,12 +9,19 @@
     <title>Title</title>
     <style type="text/css">
         body {
+            animation :mybgm 8s infinite;
             background-image: url(./images/书.jpg);
+            background-image: url(./images/冯雨昕.jpg);
             background-size: 100% 100%;
             height: 100%;
         }
+        @keyframes mybgm {
+            from{background-image:url(./images/书.jpg); }
+            to {background-image: url(./images/冯雨昕.jpg);}
+
+        }
         h1{
-            animation: myfirst 30s infinite;
+            animation: myfirst 8s infinite;
         }
         html{
             height:100%;
@@ -22,10 +29,7 @@
         @keyframes myfirst {
             from{background:red;opacity:0}
             to{background:blue;opacity:100}
-        <audio src="wav/myWeb/生日_01.wav"controls="controls autoplay="autoplay">
-         </audio>   
-        }
-    </style>
+
 
 </head>
 
